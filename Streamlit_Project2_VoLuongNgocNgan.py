@@ -123,7 +123,7 @@ if choice == 'Business Objective':
     - Thế mạnh lớn nhất của kỹ thuật gợi ý theo lọc cộng tác là chúng hoàn toàn độc lập với sự biểu diễn của các đối tượng đang được gợi ý, và do đó có thể làm việc tốt với các đối tượng phức tạp như âm thanh và phim. Schafer, Konstan & Riedl (1999) gọi lọc cộng tác là “tương quan giữa người – với – người” (people-to-people correlation).
     
     """)  
-    st.image("collaborative.jpg")
+    st.image("collaborative.JPG")
     st.write("""
     ###### 2. Hệ thống gợi ý dựa theo nội dung:
     - Hệ thống gợi ý dựa theo nội dung (Content-based recommendation systems): là sự kế thừa và mở rộng của lĩnh vực nghiên cứu lọc thông tin.
@@ -132,7 +132,7 @@ if choice == 'Business Objective':
     - Cây quyết định (Decision trees), mạng noron (neural nets) và biểu diễn dựa theo vector (vector-based representations) đều có thể được sử dụng để học hồ sơ người dùng. Cũng giống như trong lọc cộng tác, hồ sơ người dùng trong gợi ý dựa theo nội dung là những dữ liệu lâu dài và được cập nhật theo thời gian.
     
     """)
-    st.image("content_based.jpg")
+    st.image("content_based.JPG")
     st.write("""
     Ở đây ta sẽ dùng cả collaborative recommendation system để đưa ra gợi ý dựa trên sự tương đồng giữa những người sử dụng, và content-based recommendation system để đưa ra gợi ý dựa trên các đặc điểm liên quan giữa các sản phẩm trên Tiki
     """)
