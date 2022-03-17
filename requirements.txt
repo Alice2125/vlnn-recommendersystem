@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pickle
+math
+surprise
+wordcloud
+plotly
+underthesea
+re
